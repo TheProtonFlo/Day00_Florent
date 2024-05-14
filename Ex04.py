@@ -18,4 +18,4 @@ def triTableauCroissant(tableau):
     
 print(tableau_aléa)    
 tableauTrié = triTableauCroissant(tableau_aléa)
-print(f"Votre trableau a été trié par ordre croissant, le voici : {tableauTrié}")
+print(f"Votre tableau a été trié par ordre croissant, le voici : {tableauTrié}")
