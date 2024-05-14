@@ -19,4 +19,3 @@ def triTableauDécroissant(tableau):
 print(tableau_aléa)    
 tableauTrié = triTableauDécroissant(tableau_aléa)
 print(f"Votre tableau a été trié par ordre décroissant, le voici : {tableauTrié}")
-
